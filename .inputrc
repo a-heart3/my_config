@@ -1,0 +1,7 @@
+"\C-l": clear-screen
+"\C-a": beginning-of-line
+"\C-e": end-of-line
+"\C-b": backward-char
+"\C-n": forward-char
+"\C-j": history-search-forward
+"\C-k": history-search-backward

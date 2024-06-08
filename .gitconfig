@@ -1,0 +1,12 @@
+[user]
+	email = 17302241931@163.com
+	name = ysyx_22040000 安鑫
+[http]
+	sslVerify = False
+	version = HTTP/2
+[core]
+	editor = vim
+[color]
+	ui = true
+[alias]
+	graph = "log --all --graph --decorate"
