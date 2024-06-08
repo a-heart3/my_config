@@ -1,9 +1,6 @@
 [user]
-	email = 2127130849@qq.com
-	name = 斧头
-[http]
-	sslVerify = False
-	version = HTTP/2
+	email = 
+	name = 
 [core]
 	editor = vim
 [color]
