@@ -84,3 +84,10 @@ inoremap <Down>  <ESC>:echoe "Use j"<CR>
 "do not change cmd,<c-p> means :ctrlp_cmd
 let g:ctrlp_map = '<c-p>'
 let g:ctrlp_cmd = 'CtrlP'
+
+" Space & Tabs
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+set tabstop=4 " number of visual spaces per TAB"
+set softtabstop=4 " number of spaces in tab when editing"
+set shiftwidth=4 " Insert 4 spaces on a tab"
+"attention: do not set expandtab,which means tabs are spaces, this will cause the makefile error, for makefile can only use tab"
